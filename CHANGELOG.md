@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/julong1988/micro-frontend-utils/compare/v1.0.0...v1.0.1) (2021-07-04)
+
+
+### Bug Fixes
+
+* **common:** npm 배포 ([a9fe408](https://github.com/julong1988/micro-frontend-utils/commit/a9fe40840898d336caef29dbeafdfe51af1e1ea5))
+
 # 1.0.0 (2021-07-04)
 
 
