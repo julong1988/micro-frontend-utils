@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/julong1988/jnpkg.git"
+    "url": "https://github.com/julong1988/micro-frontend-utils.git"
   },
   "bugs": {
-    "url": "https://github.com/julong1988/jnpkg/issues",
+    "url": "https://github.com/julong1988/micro-frontend-utils/issues",
     "email": "julong1988@naver.com"
   },
   "keywords": [],
