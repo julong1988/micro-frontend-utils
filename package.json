@@ -1,0 +1,28 @@
+{
+  "name": "@julong/micro-frontend-utils",
+  "version": "1.0.0",
+  "description": "This README would normally document whatever steps are necessary to get your application up and running.",
+  "main": "./lib/index.js",
+  "module": "./es/index.js",
+  "scripts": {
+    "build": "jnpkg build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/FSD_JuLong/thirdutils.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/FSD_JuLong/thirdutils#readme",
+  "devDependencies": {
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/git": "^9.0.0",
+    "semantic-release": "^17.4.4",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {},
+  "publishConfig": {
+    "access": "public"
+   }
+}
