@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/jl917/micro-frontend-utils/compare/v1.0.1...v1.0.2) (2021-11-13)
+
+
+### Bug Fixes
+
+* julong1988 => jl917 ([e845c16](https://github.com/jl917/micro-frontend-utils/commit/e845c1652821e4ac9c7331dd9df5cb35feb2d224))
+
 ## [1.0.1](https://github.com/jl917/micro-frontend-utils/compare/v1.0.0...v1.0.1) (2021-07-04)
 
 
