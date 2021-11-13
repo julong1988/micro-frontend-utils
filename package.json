@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/julong1988/micro-frontend-utils.git"
+    "url": "https://github.com/jl917/micro-frontend-utils.git"
   },
   "bugs": {
-    "url": "https://github.com/julong1988/micro-frontend-utils/issues",
+    "url": "https://github.com/jl917/micro-frontend-utils/issues",
     "email": "julong1988@naver.com"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/julong1988",
+  "homepage": "https://github.com/jl917",
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/git": "^9.0.0",
