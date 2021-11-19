@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/jl917/micro-frontend-utils/compare/v1.0.2...v1.0.3) (2021-11-19)
+
+
+### Bug Fixes
+
+* package 라이센스 수정 ISC => MIT ([cc5692c](https://github.com/jl917/micro-frontend-utils/commit/cc5692c8f1182877abc9a4fca6cb941155418366))
+
 ## [1.0.2](https://github.com/jl917/micro-frontend-utils/compare/v1.0.1...v1.0.2) (2021-11-13)
 
 
